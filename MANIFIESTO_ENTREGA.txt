@@ -1,0 +1,8 @@
+GITH_USER_A: OsquerM
+GITH_USER_B: fcorcar
+GITH_REPO_URL: https://github.com/OsquerM/WebNova_2.0
+GITH_ISSUE_NUMBER: 1
+GITH_PR_NUMBER:
+GITH_TAG_FINAL: 
+GITH_SQUASH_MSG: 
+
